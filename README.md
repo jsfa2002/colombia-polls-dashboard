@@ -9,8 +9,8 @@ Este proyecto extrae datos reales de encuestas para las elecciones presidenciale
 
 | Archivo | Descripción |
 |---------|-------------|
-| `colombia_2026_scraping.ipynb` | Notebook de Jupyter que realiza el scraping de las páginas web (Infobae, etc.), normaliza los datos y genera los archivos `polls_2026.parquet` y `polls_2026.csv`. |
-| `dashboard_streamlit_app.py` | Aplicación principal de Streamlit. Carga los datos scrapeados y muestra gráficos interactivos, filtros, evolución temporal y tablas. |
+| `cColombiaScrapp_Final_APPR.ipynb` | Notebook de Jupyter que realiza el scraping de las páginas web (Infobae, etc.), normaliza los datos y genera los archivos `polls_2026.parquet` y `polls_2026.csv`. |
+| `dashboard_streamlit_app(1).py` | Aplicación principal de Streamlit. Carga los datos scrapeados y muestra gráficos interactivos, filtros, evolución temporal y tablas. |
 | `requirements.txt` | Lista de dependencias de Python necesarias para ejecutar el dashboard (`streamlit`, `pandas`, `plotly`, `numpy`). |
 
 ---
